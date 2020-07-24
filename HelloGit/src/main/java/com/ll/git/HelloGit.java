@@ -11,5 +11,6 @@ public class HelloGit {
         System.out.println("克隆下来的项目添加");
         System.out.println("测试SSH");
         System.out.println("giteeSSH_master更新测试");
+        System.out.println("idea更新测试");
     }
 }
